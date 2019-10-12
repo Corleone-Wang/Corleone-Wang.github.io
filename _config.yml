@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -16,10 +16,10 @@
 # theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: zh-CN
-title: "Jason's space"
-description: "see you on the dark side of the moon"
+title: "Sufe-Wh"
+description: "Is there anybody in there?"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://emperor110.github.io
+url: https://Corleone-Wang.github.io
 logo: /assets/images/author.jpg
 date_format: "%Y 年 %m 月 %d 日"
 read_time: false
@@ -89,10 +89,10 @@ defaults:
 
 # Site Author
 author:
-  name: Jason Wei
+  name: Wang Hao
   picture: /assets/images/author.jpg
-  email: 610303743@qq.com
-  twitter: 魏泽宇
+  email: 570804327@qq.com
+  twitter: 
   links: 
     - title: Twitter
       url: https://twitter.com/ewfyek
@@ -101,7 +101,7 @@ author:
       url: https://www.weibo.com/5234092069/profile?topnav=1&wvr=6
       icon: fab fa-weibo
     - title: QQ
-      url: https://user.qzone.qq.com/610303743/main
+      url: https://user.qzone.qq.com/570804327/main
       icon: fab fa-qq
 
 # Footer Links
@@ -116,6 +116,6 @@ footer_links:
     url: https://www.weibo.com/5234092069/profile?topnav=1&wvr=6
     icon: fab fa-weibo
   - title: QQ
-    url: https://user.qzone.qq.com/610303743/main
+    url: https://user.qzone.qq.com/570804327/main
     icon: fab fa-qq
   
