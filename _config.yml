@@ -20,7 +20,7 @@ title: "Sufe-Wh"
 description: "Is there anybody in there?"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://Corleone-Wang.github.io
-logo: /assets/images/author.jpg
+logo: /assets/images/Corleone-Wang.jpg
 date_format: "%Y 年 %m 月 %d 日"
 read_time: false
 words_per_minute: # 200
