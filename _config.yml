@@ -95,10 +95,10 @@ author:
   twitter: 
   links: 
     - title: Twitter
-      url: https://twitter.com/ewfyek
+      url: 
       icon: fab fa-twitter
     - title: Weibo
-      url: https://www.weibo.com/5234092069/profile?topnav=1&wvr=6
+      url:topnav=1&wvr=6
       icon: fab fa-weibo
     - title: QQ
       url: https://user.qzone.qq.com/570804327/main
@@ -110,10 +110,10 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
   - title: Twitter
-    url: https://twitter.com/ewfyek
+    url: https:
     icon: fab fa-twitter
   - title: Weibo
-    url: https://www.weibo.com/5234092069/profile?topnav=1&wvr=6
+    url: https:topnav=1&wvr=6
     icon: fab fa-weibo
   - title: QQ
     url: https://user.qzone.qq.com/570804327/main
